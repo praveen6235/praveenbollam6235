@@ -91,9 +91,9 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-link
-* 🌍 Portfolio: https://your-vercel-link.vercel.app
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/bollam-praveen/
+* 🌍 Portfolio: https://praveen6235.vercel.app/
+* 📧 Email: praveenbollam9550@gmail.com
 
 ---
 
