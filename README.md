@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Praveen+Bollam;Data+Science+Engineer;Full+Stack+Learner;DSA+Enthusiast;Open+to+Internships" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Praveen Bollam</h1>
 <h3 align="center">🚀 Data Science Engineer | Full Stack Learner | Problem Solver</h3>
 
 ---
